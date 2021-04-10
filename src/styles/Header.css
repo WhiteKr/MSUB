@@ -15,7 +15,7 @@
     top: 23px;
     /* left: calc(50% - 120px/2 - 636px);
     top: calc(50% - 38px/2 - 1394.5px); */
-    font-family: S-Core Dream;
+    font-family: SCDream3;
     font-style: normal;
     font-weight: 300;
     font-size: 40px;
@@ -27,6 +27,6 @@
 }
 
 @font-face {
-    font-family: 'S-Core Dream';
-    src: local('S-Core Dream'), url(../fonts/SCDream3.otf) format('woff');
+    font-family: 'SCDream3';
+    src: local('SCDream3'), url(../fonts/SCDream3.otf) format('woff');
 }
