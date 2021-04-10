@@ -9,6 +9,8 @@ React로 개발하였으며 TypeScript로 작성되었습니다.
 
 중앙 정렬은 몇번 시도해봤는데 안 돼서 포기합니다(?)
 
+이 프로젝트는 [GitHub Pages](https://WhiteKr.github.io/MSUB)에서 확인하실 수 있습니다.
+
 
 
 ## `src/components/`
