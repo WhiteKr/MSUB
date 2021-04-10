@@ -1,0 +1,17 @@
+.EndArea {
+    position: absolute;
+    width: 1440px;
+    height: 1107px;
+    left: 1px;
+    top: 1766px;
+    background: #C5E7E6;
+}
+
+#building {
+    position: absolute;
+    width: 549px;
+    height: 549px;
+    left: 62px;
+    top: 252px;
+    background: url(../images/building.png);
+}
