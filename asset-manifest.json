@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MSUB/static/css/main.6159e098.chunk.css",
+    "main.js": "/MSUB/static/js/main.c81ddf79.chunk.js",
+    "main.js.map": "/MSUB/static/js/main.c81ddf79.chunk.js.map",
+    "runtime-main.js": "/MSUB/static/js/runtime-main.85c07240.js",
+    "runtime-main.js.map": "/MSUB/static/js/runtime-main.85c07240.js.map",
+    "static/js/2.b0ee643b.chunk.js": "/MSUB/static/js/2.b0ee643b.chunk.js",
+    "static/js/2.b0ee643b.chunk.js.map": "/MSUB/static/js/2.b0ee643b.chunk.js.map",
+    "index.html": "/MSUB/index.html",
+    "static/css/main.6159e098.chunk.css.map": "/MSUB/static/css/main.6159e098.chunk.css.map",
+    "static/js/2.b0ee643b.chunk.js.LICENSE.txt": "/MSUB/static/js/2.b0ee643b.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/MSUB/static/media/SCDream3.1e55b771.otf",
+    "static/media/ImageBox.css": "/MSUB/static/media/—Pngtree—business computer monitor psd design_1089688 1.f2397d0f.png",
+    "static/media/MainContent.css": "/MSUB/static/media/SCDream6.4df12ee0.otf",
+    "static/media/EndArea.css": "/MSUB/static/media/building.27732695.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c07240.js",
+    "static/js/2.b0ee643b.chunk.js",
+    "static/css/main.6159e098.chunk.css",
+    "static/js/main.c81ddf79.chunk.js"
+  ]
+}
