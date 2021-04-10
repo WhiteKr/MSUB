@@ -28,5 +28,5 @@
 
 @font-face {
     font-family: 'SCDream3';
-    src: local('SCDream3'), url(../fonts/SCDream3.otf) format('woff');
+    src: url(../fonts/SCDream3.otf);
 }

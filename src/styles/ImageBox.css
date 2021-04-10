@@ -45,10 +45,10 @@
 
 @font-face {
     font-family: 'SCDream4';
-    src: local('SCDream4'), url(../fonts/SCDream4.otf) format('woff');
+    src: url(../fonts/SCDream4.otf);
 }
 
 @font-face {
     font-family: 'WemakepriceR';
-    src: local('WemakepriceR'), url(../fonts/Wemakeprice-Regular.otf) format('woff');
+    src: url(../fonts/Wemakeprice-Regular.otf);
 }
