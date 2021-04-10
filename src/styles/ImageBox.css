@@ -1,0 +1,54 @@
+.ImageBox {
+    position: absolute;
+    width: 1440px;
+    height: 746px;
+    left: 0px;
+    top: 0px;
+    margin-top: 84px;
+    background: url(../images/—Pngtree—business\ computer\ monitor\ psd\ design_1089688\ 1.png);
+}
+
+#forNewTry {
+    position: absolute;
+    width: 400px;
+    height: 54px;
+    left: 908px;
+    top: 373px;
+    font-family: SCDream4;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#MSUB {
+    position: absolute;
+    width: 393px;
+    height: 121px;
+    left: 911px;
+    top: 427px;
+    font-family: WemakepriceR;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 108px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.36em;
+    color: #FFFFFF;
+}
+
+@font-face {
+    font-family: 'SCDream4';
+    src: local('SCDream4'), url(../fonts/SCDream4.otf) format('woff');
+}
+
+@font-face {
+    font-family: 'WemakepriceR';
+    src: local('WemakepriceR'), url(../fonts/Wemakeprice-Regular.otf) format('woff');
+}
