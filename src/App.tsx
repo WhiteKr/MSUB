@@ -4,6 +4,7 @@ import './styles/App.css';
 import Header from './components/Header';
 import ImageBox from './components/ImageBox';
 import MainContent from './components/MainContent';
+import EndArea from './components/EndArea';
 
 class App extends React.Component {
 	render() {
@@ -12,6 +13,7 @@ class App extends React.Component {
 				<Header />
 				<ImageBox />
 				<MainContent />
+				<EndArea />
 			</div>
 		)
 	}
