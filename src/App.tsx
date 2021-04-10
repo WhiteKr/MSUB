@@ -3,6 +3,7 @@ import './styles/App.css';
 
 import Header from './components/Header';
 import ImageBox from './components/ImageBox';
+import MainContent from './components/MainContent';
 
 class App extends React.Component {
 	render() {
@@ -10,6 +11,7 @@ class App extends React.Component {
 			<div className="App">
 				<Header />
 				<ImageBox />
+				<MainContent />
 			</div>
 		)
 	}
