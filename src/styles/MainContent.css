@@ -1,0 +1,38 @@
+#title {
+    position: absolute;
+    width: 981px;
+    height: 151px;
+    left: 230px;
+    top: 1076px;
+    font-family: SCDream6;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 57px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+#content {
+    position: absolute;
+    width: 941px;
+    height: 440px;
+    left: 270px;
+    top: 1285px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #000000;
+}
+
+@font-face {
+    font-family: 'SCDream6';
+    src: url(../fonts/SCDream6.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
